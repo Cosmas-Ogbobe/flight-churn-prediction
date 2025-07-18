@@ -96,7 +96,7 @@ print("\n Passengers likely to churn:")
 print(churned.head(10))
 
 # Save the full output
-df.to_csv("flight_churn_predictions_output_noisy.csv", index=False)
+# df.to_csv("flight_churn_predictions_output_noisy.csv", index=False)
 print("\n Predictions saved to flight_churn_predictions_output_noisy.csv")
 
 
