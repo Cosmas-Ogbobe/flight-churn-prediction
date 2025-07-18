@@ -1,0 +1,199 @@
+PNR,name,from,to,route,flight_date,support_calls,delay_minutes,class
+P1000,Tiffany Boyd,Lagos,Enugu,Lagos → Enugu,2020-09-22,3,50,Business Flex
+P1000,Tiffany Boyd,Enugu,Lagos,Enugu → Lagos,2020-12-08,2,61,Economy Saver
+P1000,Tiffany Boyd,Lagos,Enugu,Lagos → Enugu,2020-10-20,2,63,Economy Flex
+P1001,Ashley White,Lagos,Uyo,Lagos → Uyo,2022-07-23,3,102,Economy Discount
+P1001,Ashley White,Uyo,Lagos,Uyo → Lagos,2022-08-12,0,116,Business Saver
+P1002,Sarah Jones,Uyo,Lagos,Uyo → Lagos,2023-07-15,1,100,Economy Flex
+P1002,Sarah Jones,Lagos,Uyo,Lagos → Uyo,2023-08-22,1,63,Business Saver
+P1002,Sarah Jones,Uyo,Lagos,Uyo → Lagos,2023-08-28,0,48,Economy Flex
+P1003,Cody Wilson,Abuja,Port Harcourt,Abuja → Port Harcourt,2022-04-01,2,59,Economy Flex
+P1004,Christy Brooks,Abuja,Port Harcourt,Abuja → Port Harcourt,2023-03-01,0,85,Economy Discount
+P1004,Christy Brooks,Port Harcourt,Abuja,Port Harcourt → Abuja,2023-03-25,2,54,Economy Discount
+P1004,Christy Brooks,Lagos,Uyo,Lagos → Uyo,2023-06-07,0,16,Business Saver
+P1005,Brooke Guerrero,Abuja,Port Harcourt,Abuja → Port Harcourt,2023-11-19,3,87,Economy Flex
+P1006,Chris Buck,Owerri,Abuja,Owerri → Abuja,2021-01-23,0,87,Economy Flex
+P1006,Chris Buck,Abuja,Owerri,Abuja → Owerri,2021-03-01,2,112,Economy Flex
+P1007,Adrian Wallace,Uyo,Lagos,Uyo → Lagos,2020-08-05,3,99,Economy Flex
+P1007,Adrian Wallace,Lagos,Uyo,Lagos → Uyo,2020-09-22,3,23,Business Flex
+P1007,Adrian Wallace,Uyo,Lagos,Uyo → Lagos,2020-12-03,0,6,Economy Flex
+P1008,Dean Murray,Lagos,Enugu,Lagos → Enugu,2022-11-21,3,109,Economy Discount
+P1008,Dean Murray,Enugu,Lagos,Enugu → Lagos,2022-11-28,3,42,Business Saver
+P1008,Dean Murray,Lagos,Enugu,Lagos → Enugu,2023-02-11,1,88,Economy Discount
+P1009,Patricia Rivera,Abuja,Owerri,Abuja → Owerri,2021-09-28,2,69,Business Saver
+P1009,Patricia Rivera,Owerri,Abuja,Owerri → Abuja,2021-11-13,1,69,Economy Flex
+P1010,Nicole Baker,Lagos,Uyo,Lagos → Uyo,2023-01-13,3,102,Business Flex
+P1011,Joseph Yoder,Lagos,Uyo,Lagos → Uyo,2023-02-15,3,92,Economy Saver
+P1011,Joseph Yoder,Uyo,Lagos,Uyo → Lagos,2023-04-07,1,24,Economy Flex
+P1012,Rebecca Hawkins,Abuja,Port Harcourt,Abuja → Port Harcourt,2021-09-25,2,12,Business Saver
+P1012,Rebecca Hawkins,Port Harcourt,Abuja,Port Harcourt → Abuja,2021-11-05,0,72,Business Flex
+P1013,Stephen Hancock,Lagos,Uyo,Lagos → Uyo,2022-12-10,2,51,Economy Flex
+P1014,Phillip Bean,Abuja,Port Harcourt,Abuja → Port Harcourt,2022-03-29,1,62,Economy Flex
+P1015,Michele Macias,Abuja,Owerri,Abuja → Owerri,2021-01-25,3,5,Business Saver
+P1015,Michele Macias,Owerri,Abuja,Owerri → Abuja,2021-02-27,0,87,Economy Discount
+P1015,Michele Macias,Uyo,Lagos,Uyo → Lagos,2021-04-17,3,97,Economy Flex
+P1016,Edgar Waters,Enugu,Lagos,Enugu → Lagos,2023-08-28,1,97,Business Saver
+P1017,Stephen Romero,Owerri,Abuja,Owerri → Abuja,2023-07-06,3,45,Business Flex
+P1017,Stephen Romero,Abuja,Owerri,Abuja → Owerri,2023-09-05,0,105,Business Flex
+P1018,Mr. John Mercer,Abuja,Port Harcourt,Abuja → Port Harcourt,2022-10-19,2,50,Economy Flex
+P1019,Ernest Humphrey,Abuja,Owerri,Abuja → Owerri,2022-08-26,2,78,Business Saver
+P1020,Robert Davenport,Owerri,Abuja,Owerri → Abuja,2021-09-21,1,117,Economy Flex
+P1020,Robert Davenport,Abuja,Owerri,Abuja → Owerri,2021-10-01,1,7,Economy Saver
+P1021,Mariah Henderson,Abuja,Owerri,Abuja → Owerri,2021-04-10,0,28,Economy Flex
+P1021,Mariah Henderson,Owerri,Abuja,Owerri → Abuja,2021-05-12,0,12,Economy Flex
+P1022,Leah Reese,Lagos,Uyo,Lagos → Uyo,2023-06-09,1,69,Business Flex
+P1022,Leah Reese,Uyo,Lagos,Uyo → Lagos,2023-08-21,0,59,Business Saver
+P1022,Leah Reese,Enugu,Lagos,Enugu → Lagos,2023-06-21,2,53,Economy Flex
+P1023,Christina Marquez,Abuja,Port Harcourt,Abuja → Port Harcourt,2023-07-25,1,86,Economy Saver
+P1024,Monica Wilkins,Enugu,Lagos,Enugu → Lagos,2022-11-23,1,39,Economy Saver
+P1024,Monica Wilkins,Lagos,Enugu,Lagos → Enugu,2022-12-19,2,117,Business Flex
+P1025,Dawn Fischer,Uyo,Lagos,Uyo → Lagos,2022-10-07,1,103,Business Saver
+P1026,Candace Barber,Uyo,Lagos,Uyo → Lagos,2022-07-24,0,44,Business Flex
+P1026,Candace Barber,Lagos,Uyo,Lagos → Uyo,2022-08-09,2,114,Business Flex
+P1027,Nichole Christensen,Abuja,Port Harcourt,Abuja → Port Harcourt,2021-09-11,3,52,Business Saver
+P1028,Joshua Moore,Uyo,Lagos,Uyo → Lagos,2021-10-15,2,74,Economy Discount
+P1028,Joshua Moore,Lagos,Uyo,Lagos → Uyo,2021-11-21,1,67,Economy Discount
+P1029,Teresa Vargas,Enugu,Lagos,Enugu → Lagos,2022-03-15,1,5,Economy Flex
+P1029,Teresa Vargas,Lagos,Enugu,Lagos → Enugu,2022-05-29,1,42,Economy Saver
+P1030,Alexander Smith,Enugu,Lagos,Enugu → Lagos,2021-08-18,1,35,Economy Flex
+P1030,Alexander Smith,Lagos,Enugu,Lagos → Enugu,2021-09-14,0,5,Business Flex
+P1031,Robin Ayala,Abuja,Port Harcourt,Abuja → Port Harcourt,2020-11-15,3,59,Business Flex
+P1031,Robin Ayala,Port Harcourt,Abuja,Port Harcourt → Abuja,2020-11-28,0,98,Economy Flex
+P1032,Cynthia Bullock,Enugu,Lagos,Enugu → Lagos,2021-11-08,1,89,Economy Discount
+P1032,Cynthia Bullock,Lagos,Enugu,Lagos → Enugu,2021-11-23,3,96,Business Flex
+P1033,Angela Holmes,Lagos,Enugu,Lagos → Enugu,2023-10-12,0,103,Business Saver
+P1033,Angela Holmes,Enugu,Lagos,Enugu → Lagos,2023-11-16,2,39,Economy Flex
+P1033,Angela Holmes,Owerri,Abuja,Owerri → Abuja,2023-12-11,0,36,Business Flex
+P1034,Eric Cook,Enugu,Lagos,Enugu → Lagos,2021-07-18,0,120,Economy Saver
+P1034,Eric Cook,Lagos,Enugu,Lagos → Enugu,2021-09-17,2,80,Economy Flex
+P1034,Eric Cook,Enugu,Lagos,Enugu → Lagos,2021-12-23,0,25,Business Saver
+P1035,Raymond Wilson,Enugu,Lagos,Enugu → Lagos,2022-02-26,1,3,Business Saver
+P1035,Raymond Wilson,Lagos,Enugu,Lagos → Enugu,2022-03-17,1,110,Economy Saver
+P1036,Francisco Stewart,Lagos,Uyo,Lagos → Uyo,2021-10-09,3,17,Business Saver
+P1036,Francisco Stewart,Uyo,Lagos,Uyo → Lagos,2021-11-05,0,75,Business Flex
+P1036,Francisco Stewart,Port Harcourt,Abuja,Port Harcourt → Abuja,2022-02-28,1,10,Business Flex
+P1037,Jesus Gibson,Owerri,Abuja,Owerri → Abuja,2023-02-03,0,119,Economy Saver
+P1037,Jesus Gibson,Abuja,Owerri,Abuja → Owerri,2023-04-24,1,84,Business Saver
+P1038,Taylor Mcclain,Lagos,Uyo,Lagos → Uyo,2021-05-10,2,21,Business Flex
+P1038,Taylor Mcclain,Uyo,Lagos,Uyo → Lagos,2021-07-19,0,68,Business Saver
+P1039,Christopher Lee,Uyo,Lagos,Uyo → Lagos,2022-10-24,3,32,Economy Saver
+P1039,Christopher Lee,Lagos,Uyo,Lagos → Uyo,2022-12-27,0,95,Economy Discount
+P1039,Christopher Lee,Lagos,Uyo,Lagos → Uyo,2023-01-04,3,116,Business Flex
+P1040,Phillip Foster,Enugu,Lagos,Enugu → Lagos,2023-05-13,0,21,Economy Saver
+P1041,Mr. Harold Jenkins,Abuja,Port Harcourt,Abuja → Port Harcourt,2021-07-28,0,81,Business Flex
+P1041,Mr. Harold Jenkins,Port Harcourt,Abuja,Port Harcourt → Abuja,2021-10-09,0,8,Economy Flex
+P1042,Gary Murray,Abuja,Owerri,Abuja → Owerri,2023-10-05,2,25,Business Flex
+P1042,Gary Murray,Owerri,Abuja,Owerri → Abuja,2023-11-01,3,9,Economy Saver
+P1043,Kendra Holland,Abuja,Owerri,Abuja → Owerri,2022-05-20,0,36,Business Saver
+P1043,Kendra Holland,Owerri,Abuja,Owerri → Abuja,2022-08-05,2,37,Economy Saver
+P1044,Amy Freeman,Enugu,Lagos,Enugu → Lagos,2021-06-27,1,30,Economy Flex
+P1044,Amy Freeman,Lagos,Enugu,Lagos → Enugu,2021-07-18,2,104,Business Flex
+P1044,Amy Freeman,Abuja,Owerri,Abuja → Owerri,2021-10-15,3,106,Economy Flex
+P1045,Jeffrey Cortez,Uyo,Lagos,Uyo → Lagos,2020-11-15,0,55,Economy Saver
+P1045,Jeffrey Cortez,Lagos,Uyo,Lagos → Uyo,2020-12-04,0,108,Business Saver
+P1046,Tina Andersen,Owerri,Abuja,Owerri → Abuja,2021-09-26,3,70,Business Flex
+P1047,Marcus Brown,Uyo,Lagos,Uyo → Lagos,2021-09-18,0,79,Economy Saver
+P1047,Marcus Brown,Lagos,Uyo,Lagos → Uyo,2021-10-23,1,88,Economy Discount
+P1048,Michael Nelson,Abuja,Owerri,Abuja → Owerri,2022-03-25,3,51,Economy Flex
+P1048,Michael Nelson,Owerri,Abuja,Owerri → Abuja,2022-03-31,0,45,Economy Saver
+P1048,Michael Nelson,Port Harcourt,Abuja,Port Harcourt → Abuja,2022-08-16,2,94,Economy Discount
+P1049,Timothy Bender,Lagos,Uyo,Lagos → Uyo,2023-08-04,3,32,Business Flex
+P1049,Timothy Bender,Uyo,Lagos,Uyo → Lagos,2023-09-15,3,76,Economy Discount
+P1049,Timothy Bender,Uyo,Lagos,Uyo → Lagos,2023-10-05,1,72,Economy Discount
+P1050,Tammy Bruce,Uyo,Lagos,Uyo → Lagos,2023-05-19,2,83,Economy Discount
+P1050,Tammy Bruce,Lagos,Uyo,Lagos → Uyo,2023-06-15,1,99,Economy Saver
+P1050,Tammy Bruce,Lagos,Uyo,Lagos → Uyo,2023-10-06,2,37,Economy Flex
+P1051,Susan Mitchell,Owerri,Abuja,Owerri → Abuja,2021-01-10,3,23,Business Flex
+P1051,Susan Mitchell,Abuja,Owerri,Abuja → Owerri,2021-02-25,3,32,Economy Flex
+P1052,Jennifer Juarez,Uyo,Lagos,Uyo → Lagos,2020-08-12,1,43,Business Saver
+P1052,Jennifer Juarez,Lagos,Uyo,Lagos → Uyo,2020-10-23,3,24,Economy Discount
+P1052,Jennifer Juarez,Lagos,Enugu,Lagos → Enugu,2021-01-03,0,45,Economy Discount
+P1053,Ms. Amber Ferguson,Enugu,Lagos,Enugu → Lagos,2022-11-28,0,69,Economy Discount
+P1053,Ms. Amber Ferguson,Lagos,Enugu,Lagos → Enugu,2023-02-03,0,79,Economy Flex
+P1053,Ms. Amber Ferguson,Abuja,Port Harcourt,Abuja → Port Harcourt,2023-04-05,2,59,Economy Discount
+P1054,Antonio Perry,Abuja,Owerri,Abuja → Owerri,2021-01-02,3,102,Economy Saver
+P1054,Antonio Perry,Owerri,Abuja,Owerri → Abuja,2021-03-12,1,25,Economy Flex
+P1055,John Mann,Enugu,Lagos,Enugu → Lagos,2021-12-19,1,24,Business Saver
+P1055,John Mann,Lagos,Enugu,Lagos → Enugu,2022-02-06,1,31,Business Flex
+P1055,John Mann,Abuja,Port Harcourt,Abuja → Port Harcourt,2022-04-04,3,60,Business Flex
+P1056,Michael Mckinney,Port Harcourt,Abuja,Port Harcourt → Abuja,2024-02-22,0,106,Economy Flex
+P1057,Ronald Harris,Abuja,Port Harcourt,Abuja → Port Harcourt,2023-05-19,2,107,Business Flex
+P1057,Ronald Harris,Port Harcourt,Abuja,Port Harcourt → Abuja,2023-08-07,1,110,Business Flex
+P1057,Ronald Harris,Lagos,Enugu,Lagos → Enugu,2023-07-20,3,17,Economy Discount
+P1058,Frederick Griffith,Uyo,Lagos,Uyo → Lagos,2024-02-13,0,92,Economy Saver
+P1058,Frederick Griffith,Lagos,Uyo,Lagos → Uyo,2024-03-21,0,23,Economy Flex
+P1059,Vanessa Hopkins,Enugu,Lagos,Enugu → Lagos,2024-03-14,3,91,Business Flex
+P1059,Vanessa Hopkins,Lagos,Enugu,Lagos → Enugu,2024-04-16,0,96,Business Saver
+P1059,Vanessa Hopkins,Uyo,Lagos,Uyo → Lagos,2024-05-09,3,36,Economy Flex
+P1060,Christine Hale,Lagos,Uyo,Lagos → Uyo,2022-06-29,0,76,Economy Flex
+P1061,Lauren Garcia,Enugu,Lagos,Enugu → Lagos,2023-02-14,3,3,Business Flex
+P1061,Lauren Garcia,Lagos,Enugu,Lagos → Enugu,2023-03-06,1,120,Economy Discount
+P1061,Lauren Garcia,Abuja,Port Harcourt,Abuja → Port Harcourt,2023-07-02,3,15,Business Flex
+P1062,Sandra Spears,Abuja,Port Harcourt,Abuja → Port Harcourt,2023-06-18,1,26,Business Saver
+P1062,Sandra Spears,Port Harcourt,Abuja,Port Harcourt → Abuja,2023-08-24,2,112,Business Saver
+P1062,Sandra Spears,Lagos,Enugu,Lagos → Enugu,2023-09-22,2,33,Business Flex
+P1063,Kelli Benton,Uyo,Lagos,Uyo → Lagos,2023-07-25,1,50,Economy Saver
+P1064,Rebecca Smith,Lagos,Uyo,Lagos → Uyo,2021-05-29,2,75,Economy Flex
+P1064,Rebecca Smith,Uyo,Lagos,Uyo → Lagos,2021-08-25,0,50,Economy Flex
+P1064,Rebecca Smith,Uyo,Lagos,Uyo → Lagos,2021-08-29,1,8,Economy Discount
+P1065,Jennifer Pratt,Port Harcourt,Abuja,Port Harcourt → Abuja,2020-12-09,0,64,Business Saver
+P1066,Kim Garza,Owerri,Abuja,Owerri → Abuja,2020-12-25,0,33,Business Flex
+P1067,Victor Conley,Abuja,Owerri,Abuja → Owerri,2022-05-24,1,120,Business Flex
+P1067,Victor Conley,Owerri,Abuja,Owerri → Abuja,2022-07-23,1,28,Business Flex
+P1067,Victor Conley,Port Harcourt,Abuja,Port Harcourt → Abuja,2022-07-15,0,73,Economy Flex
+P1068,Billy Gregory,Owerri,Abuja,Owerri → Abuja,2023-05-14,3,43,Business Saver
+P1068,Billy Gregory,Abuja,Owerri,Abuja → Owerri,2023-08-08,3,116,Business Flex
+P1068,Billy Gregory,Abuja,Owerri,Abuja → Owerri,2023-06-23,2,26,Economy Flex
+P1069,Mrs. Patricia Wagner MD,Lagos,Enugu,Lagos → Enugu,2021-09-18,2,56,Economy Saver
+P1070,Rachel Carter,Port Harcourt,Abuja,Port Harcourt → Abuja,2023-12-18,0,34,Economy Saver
+P1070,Rachel Carter,Abuja,Port Harcourt,Abuja → Port Harcourt,2024-01-19,0,26,Economy Flex
+P1071,Julie Davis,Abuja,Port Harcourt,Abuja → Port Harcourt,2021-07-27,1,35,Business Saver
+P1072,George Stevens,Abuja,Owerri,Abuja → Owerri,2020-07-20,2,91,Economy Discount
+P1073,Elizabeth Irwin,Uyo,Lagos,Uyo → Lagos,2023-04-14,0,77,Economy Flex
+P1073,Elizabeth Irwin,Lagos,Uyo,Lagos → Uyo,2023-05-24,1,30,Business Saver
+P1073,Elizabeth Irwin,Lagos,Enugu,Lagos → Enugu,2023-06-27,3,43,Business Saver
+P1074,Matthew Little,Lagos,Uyo,Lagos → Uyo,2022-10-30,2,72,Economy Flex
+P1075,Shawna Patterson,Enugu,Lagos,Enugu → Lagos,2022-03-05,0,112,Economy Saver
+P1076,Ronald Jenkins,Abuja,Port Harcourt,Abuja → Port Harcourt,2021-05-12,3,45,Business Saver
+P1077,Jared Herman,Enugu,Lagos,Enugu → Lagos,2022-12-01,3,98,Economy Discount
+P1077,Jared Herman,Lagos,Enugu,Lagos → Enugu,2023-02-21,0,26,Business Flex
+P1078,Rita Anderson,Port Harcourt,Abuja,Port Harcourt → Abuja,2023-07-31,2,7,Economy Saver
+P1078,Rita Anderson,Abuja,Port Harcourt,Abuja → Port Harcourt,2023-09-25,3,52,Economy Flex
+P1079,Andrew King,Abuja,Port Harcourt,Abuja → Port Harcourt,2023-10-06,1,14,Economy Discount
+P1079,Andrew King,Port Harcourt,Abuja,Port Harcourt → Abuja,2023-10-17,3,3,Economy Saver
+P1080,Justin Montgomery,Lagos,Enugu,Lagos → Enugu,2020-11-15,0,15,Economy Discount
+P1081,Christopher Norman,Uyo,Lagos,Uyo → Lagos,2023-04-17,3,48,Business Saver
+P1082,Darius Wood,Lagos,Uyo,Lagos → Uyo,2022-07-23,0,44,Business Saver
+P1083,Carlos Tucker,Abuja,Owerri,Abuja → Owerri,2020-09-26,0,37,Economy Flex
+P1083,Carlos Tucker,Owerri,Abuja,Owerri → Abuja,2020-12-16,3,65,Economy Saver
+P1084,Jeffrey Gonzalez,Abuja,Owerri,Abuja → Owerri,2022-08-10,1,69,Economy Discount
+P1084,Jeffrey Gonzalez,Owerri,Abuja,Owerri → Abuja,2022-10-15,2,43,Economy Discount
+P1085,Jason Johnson,Uyo,Lagos,Uyo → Lagos,2023-10-09,2,68,Economy Discount
+P1085,Jason Johnson,Lagos,Uyo,Lagos → Uyo,2023-11-24,0,25,Economy Flex
+P1085,Jason Johnson,Abuja,Owerri,Abuja → Owerri,2024-03-03,2,84,Economy Discount
+P1086,Katelyn Anderson,Uyo,Lagos,Uyo → Lagos,2021-01-29,2,68,Economy Discount
+P1086,Katelyn Anderson,Lagos,Uyo,Lagos → Uyo,2021-04-05,0,4,Business Saver
+P1086,Katelyn Anderson,Uyo,Lagos,Uyo → Lagos,2021-06-12,2,97,Economy Flex
+P1087,Alicia Meadows,Lagos,Uyo,Lagos → Uyo,2021-07-05,3,110,Business Flex
+P1087,Alicia Meadows,Uyo,Lagos,Uyo → Lagos,2021-09-11,0,0,Economy Flex
+P1087,Alicia Meadows,Port Harcourt,Abuja,Port Harcourt → Abuja,2021-12-02,0,76,Business Flex
+P1088,Annette Clark,Owerri,Abuja,Owerri → Abuja,2023-09-11,1,57,Economy Saver
+P1088,Annette Clark,Abuja,Owerri,Abuja → Owerri,2023-11-10,0,52,Economy Saver
+P1089,Christopher Estrada,Enugu,Lagos,Enugu → Lagos,2021-05-12,0,60,Business Saver
+P1089,Christopher Estrada,Lagos,Enugu,Lagos → Enugu,2021-07-06,2,2,Economy Saver
+P1090,Diana Green,Uyo,Lagos,Uyo → Lagos,2022-04-22,2,112,Business Saver
+P1091,Michael Sutton,Owerri,Abuja,Owerri → Abuja,2021-02-23,2,45,Business Flex
+P1091,Michael Sutton,Abuja,Owerri,Abuja → Owerri,2021-03-11,2,14,Economy Saver
+P1091,Michael Sutton,Port Harcourt,Abuja,Port Harcourt → Abuja,2021-06-03,1,74,Economy Flex
+P1092,Eric Powell,Uyo,Lagos,Uyo → Lagos,2021-07-28,0,97,Business Flex
+P1093,Stacy Williams,Owerri,Abuja,Owerri → Abuja,2023-06-02,1,19,Economy Saver
+P1093,Stacy Williams,Abuja,Owerri,Abuja → Owerri,2023-08-24,1,34,Business Flex
+P1094,Michelle Moreno,Abuja,Port Harcourt,Abuja → Port Harcourt,2021-08-01,1,48,Business Flex
+P1095,Philip Jones,Abuja,Port Harcourt,Abuja → Port Harcourt,2024-02-25,0,20,Economy Saver
+P1095,Philip Jones,Port Harcourt,Abuja,Port Harcourt → Abuja,2024-04-24,1,49,Economy Flex
+P1096,Jesus Barry,Port Harcourt,Abuja,Port Harcourt → Abuja,2020-07-19,3,116,Business Saver
+P1097,Richard Pacheco,Owerri,Abuja,Owerri → Abuja,2024-01-30,0,119,Business Flex
+P1098,Carrie Campbell,Lagos,Uyo,Lagos → Uyo,2024-01-08,3,29,Economy Flex
+P1098,Carrie Campbell,Uyo,Lagos,Uyo → Lagos,2024-02-23,1,22,Economy Saver
+P1098,Carrie Campbell,Lagos,Enugu,Lagos → Enugu,2024-06-16,3,35,Economy Flex
+P1099,Stacey Rodriguez,Uyo,Lagos,Uyo → Lagos,2023-01-13,2,13,Business Flex
