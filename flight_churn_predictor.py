@@ -97,7 +97,7 @@ print(churned.head(10))
 
 # Save the full output
 # df.to_csv("flight_churn_predictions_output_noisy.csv", index=False)
-print("\n Predictions saved to flight_churn_predictions_output_noisy.csv")
+# print("\n Predictions saved to flight_churn_predictions_output_noisy.csv")
 
 
 from sklearn.metrics import confusion_matrix
