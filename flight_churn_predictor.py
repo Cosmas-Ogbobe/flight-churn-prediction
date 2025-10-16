@@ -71,7 +71,9 @@ y = df["churn"]
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
 # Train the model
-model = RandomForestClassifier(random_state=42, class_weight="balanced")
+# model = RandomForestClassifier(random_state=42, class_weight="balanced")
+# Train the model
+model = RandomForestClassifier(random_state=42)
 model.fit(X_train, y_train)
 
 # Predict on test set
@@ -109,7 +111,7 @@ plt.title('Confusion Matrix')
 plt.xlabel('Predicted')
 plt.ylabel('Actual')
 plt.tight_layout()
-plt.savefig("confusion_matrix_flight.png")
+# plt.savefig("confusion_matrix_flight.png")
 plt.show()
 
 plt.figure(figsize=(6, 4))
@@ -119,7 +121,7 @@ plt.title('Predicted Churn Distribution')
 plt.xlabel('Churn Status')
 plt.ylabel('Number of Passengers')
 plt.tight_layout()
-plt.savefig("predicted_churn_distribution.png")
+# plt.savefig("predicted_churn_distribution.png")
 plt.show()
 
 importances = model.feature_importances_
@@ -130,7 +132,7 @@ plt.figure(figsize=(8, 5))
 sns.barplot(data=importance_df, x='Importance', y='Feature', palette='coolwarm')
 plt.title('Feature Importance - What drives churn?')
 plt.tight_layout()
-plt.savefig("feature_importance_flight.png")
+# plt.savefig("feature_importance_flight.png")
 plt.show()
 
 plt.figure(figsize=(7, 4))
@@ -140,7 +142,7 @@ plt.xlabel("Day of Week (0=Mon, 6=Sun)")
 plt.ylabel("Passenger Count")
 plt.legend(["Not Churned", "Churned"])
 plt.tight_layout()
-plt.savefig("churn_by_dayofweek.png")
+# plt.savefig("churn_by_dayofweek.png")
 plt.show()
 
 plt.figure(figsize=(7, 4))
@@ -150,6 +152,6 @@ plt.xlabel("Month")
 plt.ylabel("Passenger Count")
 plt.legend(["Not Churned", "Churned"])
 plt.tight_layout()
-plt.savefig("churn_by_month.png")
+# plt.savefig("churn_by_month.png")
 plt.show()
 
